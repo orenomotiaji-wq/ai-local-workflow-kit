@@ -44,3 +44,46 @@ The goal is to provide a reusable foundation for safe local AI workflows.
 ## License
 
 MIT
+
+## Vision
+
+AI agents are becoming more powerful, but many users still lack safe workflows for working with local files.
+
+This project aims to provide a reusable foundation for safe AI-assisted work.
+
+## Why this project exists
+
+Many AI tools focus on generation.
+
+This project focuses on safety:
+
+- backups
+- approvals
+- logs
+- reports
+- handoff templates
+
+## Related Projects
+
+This repository is being tested and expanded through several real-world projects:
+
+- AI Office Bridge
+- Universal Inbox
+- NareCheck
+- Anime Studio Auto Maker
+
+## Safety Principles
+
+1. Read before modify
+2. Backup before change
+3. Human approval before overwrite
+4. Log every action
+5. Avoid destructive operations
+
+## Roadmap
+
+- Approval workflow
+- Backup verification
+- AI handoff templates
+- Local-first AI operations
+- Multi-agent workflow support
